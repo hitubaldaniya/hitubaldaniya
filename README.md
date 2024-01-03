@@ -8,7 +8,7 @@ So far we've got:
 
 - Blog w/ posts, including pagination.
 - Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
+- CSS Markdown.
 - Dynamic pages.
 - PWA ready.
 - SEO ready for posts & pages.
